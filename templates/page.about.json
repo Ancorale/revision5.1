@@ -1,0 +1,93 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "c8ba2184-f0f2-4603-990f-d2157c88b809": {
+      "type": "krew",
+      "blocks": {
+        "template--16786484560101__c8ba2184-f0f2-4603-990f-d2157c88b809-1688423050a65c988b-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/budda.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7704a30f-4044-4c96-b711-fdef227626bc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fat.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16786484560101__c8ba2184-f0f2-4603-990f-d2157c88b809-1688423050a65c988b-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/beezy.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16786484560101__c8ba2184-f0f2-4603-990f-d2157c88b809-1688423050a65c988b-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/deej.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b35a95b4-bab3-4a9b-b2dc-eedad39c05a9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/doc.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16786484560101__c8ba2184-f0f2-4603-990f-d2157c88b809-1688423050a65c988b-0",
+        "7704a30f-4044-4c96-b711-fdef227626bc",
+        "template--16786484560101__c8ba2184-f0f2-4603-990f-d2157c88b809-1688423050a65c988b-1",
+        "template--16786484560101__c8ba2184-f0f2-4603-990f-d2157c88b809-1688423050a65c988b-2",
+        "b35a95b4-bab3-4a9b-b2dc-eedad39c05a9"
+      ],
+      "settings": {
+        "title": "MEET THE KREW",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "c8ba2184-f0f2-4603-990f-d2157c88b809"
+  ]
+}

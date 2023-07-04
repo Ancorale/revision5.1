@@ -1,25 +1,33 @@
 {
   "sections": {
-    "d8729e33-4ec7-410c-b890-884b76ab701c": {
-      "type": "video",
+    "aef87857-86d2-4c36-b0ee-6ec966d30dd3": {
+      "type": "video-background",
+      "blocks": {
+        "template--16780267028709__aef87857-86d2-4c36-b0ee-6ec966d30dd3-16872809180766d6d1-0": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/4d8c3a6e392042128dce8af67b79b297.mp4",
+            "overlay_opacity": 0,
+            "title": "",
+            "text": "",
+            "color_text": "#ffffff",
+            "button_label": "",
+            "button_link": "",
+            "color_btn_bg": "#ffffff",
+            "color_btn_text": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--16780267028709__aef87857-86d2-4c36-b0ee-6ec966d30dd3-16872809180766d6d1-0"
+      ],
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "video": "shopify:\/\/files\/videos\/20210122_104332.mp4",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "cover_image": "shopify:\/\/shop_images\/fireapesLogo.png",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-
+        "div > div > div.center.collection__view-all.scroll-trigger.animate--slide-in > a {background-color: #e34126; color: #ffffff;}"
       ],
       "settings": {
         "title": "INNOVATION",
@@ -27,12 +35,12 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
-        "products_to_show": 12,
+        "collection": "promotional-items",
+        "products_to_show": 16,
         "columns_desktop": 4,
         "full_width": true,
         "show_view_all": true,
-        "view_all_style": "link",
+        "view_all_style": "outline",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "adapt",
@@ -49,7 +57,7 @@
     }
   },
   "order": [
-    "d8729e33-4ec7-410c-b890-884b76ab701c",
+    "aef87857-86d2-4c36-b0ee-6ec966d30dd3",
     "featured_collection"
   ]
 }
