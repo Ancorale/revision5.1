@@ -54,10 +54,54 @@
         "padding_top": 44,
         "padding_bottom": 36
       }
+    },
+    "cf77d23f-4fb0-4c19-8e07-cce4e6a4585b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16780267028709__cf77d23f-4fb0-4c19-8e07-cce4e6a4585b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "100% Satisfaction Guarantee",
+            "heading_size": "h1"
+          }
+        },
+        "template--16780267028709__cf77d23f-4fb0-4c19-8e07-cce4e6a4585b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Buy with confidence! Our 100% satisfaction guarantee means you're always covered. We're so confident you'll love our products, we offer a 30-day money-back guarantee. If you're not happy with your purchase, simply return it for a full refund, no questions asked!<\/p>"
+          }
+        },
+        "template--16780267028709__cf77d23f-4fb0-4c19-8e07-cce4e6a4585b-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16780267028709__cf77d23f-4fb0-4c19-8e07-cce4e6a4585b-heading-1",
+        "template--16780267028709__cf77d23f-4fb0-4c19-8e07-cce4e6a4585b-text-1",
+        "template--16780267028709__cf77d23f-4fb0-4c19-8e07-cce4e6a4585b-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "aef87857-86d2-4c36-b0ee-6ec966d30dd3",
-    "featured_collection"
+    "featured_collection",
+    "cf77d23f-4fb0-4c19-8e07-cce4e6a4585b"
   ]
 }

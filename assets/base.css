@@ -3323,3 +3323,8 @@ details-disclosure > details {
     --sparkle: url('./sparkle.gif');
   }
 }
+
+/* My css */
+a.appstle_manageSubBtn > button {
+color:white !important;
+}
